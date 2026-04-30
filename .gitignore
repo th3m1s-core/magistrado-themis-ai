@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets (Extremamente Sensível - Manter no Vault)
+dataset/
+*.jsonl
+*.csv
+*.json
+
+# Models
+models/
+*.safetensors
+*.bin
+*.pt
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
