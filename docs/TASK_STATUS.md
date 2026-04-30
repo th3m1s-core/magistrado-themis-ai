@@ -8,9 +8,10 @@
 ---
 
 ## 🔬 GATE 1 — FUNDAÇÃO DE DADOS (EM EXECUÇÃO)
-- [/] **1.1. Rodar `quick_validation.py`**
-  - [x] Script localizado em `aoa-core`.
-  - [ ] Aguardando captura de fotos reais/fakes pelo usuário.
+- [/] **1.1. Validação Óptica e RF (Penetração de Vidro)**
+  - [x] Script `quick_validation.py` adaptado para V2.0.
+  - [ ] Teste de leitura NFC/UHF através de vidro automotivo (±15°).
+  - [ ] Coleta de dataset OFP via vidro (100+ imagens).
 - [/] **1.2. Ativar Active Learning Loop**
   - [x] API `aoa-core` (Inference) pronta para subir.
   - [ ] Implementar `dataset_builder.py` no Magistrado Core (NOVO).

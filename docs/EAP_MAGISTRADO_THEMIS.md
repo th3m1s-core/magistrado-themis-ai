@@ -14,5 +14,7 @@
 ---
 
 ## 🔬 GATE 1 — FUNDAÇÃO DE DADOS (PRÓXIMA FASE)
-- [ ] Coleta de dataset OFP.
-- [ ] Geração de 50-200 pares de laudos.
+- [ ] **1.1. Validação Óptica e RF (Penetração de Vidro)**
+  - [ ] Teste de leitura NFC/UHF através de vidro automotivo (Ref. Desenho 2.0).
+  - [ ] Coleta de dataset OFP via vidro (100+ imagens).
+- [ ] **1.2. Ativar Active Learning Loop**
