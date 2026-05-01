@@ -1,21 +1,20 @@
-# 🏛️ Magistrado Themis AI — Juridical Innovation Lab
-**The Sovereign R&D Headquarters of Symbeon Labs**
+# ⚖️ Magistrado Themis Core
 
-Este repositório é o **Centro de Pesquisa e Desenvolvimento Jurídico** da Symbeon Labs, liderado por **João Manoel Oliveira Silva**. Aqui operamos a "Trindade de Inovação" sob a arquitetura de governança **00-10**, integrando inteligência artificial forense e defesa de propriedade intelectual.
+## 🎯 Missão
+O **Magistrado Themis** é uma camada de inteligência artificial forense especializada em emitir laudos técnico-jurídicos automatizados sobre a autenticidade de ativos físicos auditados pelo ecossistema GuardDrive.
 
-## 🚀 Estrutura do Laboratório (P&D Office Standard)
-O core está organizado em compartimentos canônicos para suportar múltiplos projetos independentes:
+## 🔒 Status de Propriedade Intelectual
+- **Classificação:** `CONFIDENCIAL — SEGREDO INDUSTRIAL`
+- **Registro Base:** Protocolo AOA (Assinatura Óptica Atômica) V2.1
+- **Motor Criptográfico:** Ed25519 (Guardião Root)
 
-- **00-01:** Planejamento Executivo e Especificações de Produto.
-- **02-04:** Inteligência de IP (Patentes/arXiv) e Compliance Forense.
-- **05_ENGINEERING:** Motor de IA Magistrado (Agnóstico e Modular).
-- **08_LEGAL:** Licenciamento e Contratos (Padrão Symbeon Legal Engine - SLE).
+## 🏛️ Arquitetura Core
 
-## 🛡️ Integração Symbeon-SLA
-Todos os ativos gerados neste laboratório são auditados e registrados via [Symbeon Legal Engine](https://github.com/symbeon-labs/symbeon-sla), garantindo a imutabilidade dos laudos e contratos através de hashes criptográficos no Symbeon Vault.
+O Magistrado atua como um juiz autônomo. Ele não toma a decisão humana, mas constrói um **Laudo Imutável** (Assinado com chave criptográfica) que atesta que:
+1. O selo estava presente no vidro.
+2. Não havia micro-fissuras (Optical Fingerprint intacta).
+3. O contexto de iluminação não indica spoofing.
 
----
-*A ordem é a fundação da soberania. Aqui, o código é a lei e a lei é soberana.*
 
 ## 🔒 Status de Propriedade Intelectual
 - **Classificação:** `CONFIDENCIAL — SEGREDO INDUSTRIAL`
