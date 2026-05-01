@@ -45,9 +45,9 @@ Utilizando o modelo vetorial $\vec{I} = [H, Z, C]$, o conceito atual do Magistra
 O Magistrado Themis possui mérito para **Patente de Invenção (PI)** e não apenas Modelo de Utilidade. A combinação da **Camada L7 (Óptica)** com a **L1 (NFC)** cria um "Evento Físico Irrefutável" que remove a subjetividade jurídica.
 
 ### Próximos Passos:
-1.  [ ] Reescrever os claims focando no **Hardware de Borda** e no **Efeito Óptico**.
-2.  [ ] Gerar o **Academic Paper V1** via Academic Generator para estabelecer anterioridade científica mundial (arXiv).
-3.  [ ] Vincular o **Protocolo de Instalação V2** como parte do "Método Protegido".
+1.  [x] Reescrever os claims focando no **Hardware de Borda** e no **Efeito Óptico**. (Concluído: `docs/CLAIM_DRAFT_RS_ADVOGADOS.md`)
+2.  [x] Gerar o **Academic Paper V1** via Academic Generator para estabelecer anterioridade científica mundial (arXiv). (Concluído: `docs/ACADEMIC_PAPER_V1_DRAFT.md`)
+3.  [x] Vincular o **Protocolo de Instalação V2** como parte do "Método Protegido". (Concluído: Integrado aos Claims e Artigo)
 
 ---
 *Assinado pelos Agentes de Governança da Symbeon Labs.*

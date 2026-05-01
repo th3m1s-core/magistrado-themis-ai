@@ -1,7 +1,15 @@
-# ⚖️ Magistrado Themis Core
+# 🏛️ Magistrado Themis AI — Juridical Innovation Lab
+**The Sovereign Legal Core of Symbeon Labs**
 
-## 🎯 Missão
-O **Magistrado Themis** é uma camada de inteligência artificial forense especializada em emitir laudos técnico-jurídicos automatizados sobre a autenticidade de ativos físicos auditados pelo ecossistema GuardDrive.
+Este repositório é o **Laboratório de Inovação Jurídica** da Symbeon Labs, dedicado à pesquisa, desenvolvimento e proteção de ativos de inteligência forense. Sob a liderança de **João Manoel Oliveira Silva**, este core opera como o centro de comando para a "Trindade de Inovação":
+
+### 🛡️ Pilares do Laboratório:
+1.  **Auditoria Forense (Themis AI):** Desenvolvimento de motores de inferência para validação de ativos físicos (GuardTag).
+2.  **Governança de IP (EditalShield):** Blindagem estratégica de patentes e anterioridade científica (LPI 9.279/96).
+3.  **Soberania de Dados:** Custódia irrefutável via Symbeon Vault e assinaturas Ed25519.
+
+---
+*A ordem é a fundação da soberania. Aqui, o código é a lei.*
 
 ## 🔒 Status de Propriedade Intelectual
 - **Classificação:** `CONFIDENCIAL — SEGREDO INDUSTRIAL`
