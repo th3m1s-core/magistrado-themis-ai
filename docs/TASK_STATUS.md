@@ -1,9 +1,12 @@
 # 📋 Status de Execução: Magistrado Themis
 
-## 🔒 GATE 0 — ISOLAMENTO DO ATIVO
+## 🔒 GATE 0 — ISOLAMENTO E AUDITORIA (CONCLUÍDO)
 - [x] **0.1. Registro de Anterioridade**
 - [x] **0.2. Claim Formal (RS Advogados)**
 - [x] **0.3. Segregação de Código (magistrado-themis-core)**
+- [x] **0.4. Auditoria Trinity (EditalShield + Themis Engine)**
+  - [x] Relatório `PATENT_AUDIT_REPORT_TRINITY.md` gerado.
+  - [x] Estratégia de Pivotagem definida para evitar Art. 10 LPI.
 
 ---
 
