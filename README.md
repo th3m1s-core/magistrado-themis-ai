@@ -1,15 +1,21 @@
 # 🏛️ Magistrado Themis AI — Juridical Innovation Lab
-**The Sovereign Legal Core of Symbeon Labs**
+**The Sovereign R&D Headquarters of Symbeon Labs**
 
-Este repositório é o **Laboratório de Inovação Jurídica** da Symbeon Labs, dedicado à pesquisa, desenvolvimento e proteção de ativos de inteligência forense. Sob a liderança de **João Manoel Oliveira Silva**, este core opera como o centro de comando para a "Trindade de Inovação":
+Este repositório é o **Centro de Pesquisa e Desenvolvimento Jurídico** da Symbeon Labs, liderado por **João Manoel Oliveira Silva**. Aqui operamos a "Trindade de Inovação" sob a arquitetura de governança **00-10**, integrando inteligência artificial forense e defesa de propriedade intelectual.
 
-### 🛡️ Pilares do Laboratório:
-1.  **Auditoria Forense (Themis AI):** Desenvolvimento de motores de inferência para validação de ativos físicos (GuardTag).
-2.  **Governança de IP (EditalShield):** Blindagem estratégica de patentes e anterioridade científica (LPI 9.279/96).
-3.  **Soberania de Dados:** Custódia irrefutável via Symbeon Vault e assinaturas Ed25519.
+## 🚀 Estrutura do Laboratório (P&D Office Standard)
+O core está organizado em compartimentos canônicos para suportar múltiplos projetos independentes:
+
+- **00-01:** Planejamento Executivo e Especificações de Produto.
+- **02-04:** Inteligência de IP (Patentes/arXiv) e Compliance Forense.
+- **05_ENGINEERING:** Motor de IA Magistrado (Agnóstico e Modular).
+- **08_LEGAL:** Licenciamento e Contratos (Padrão Symbeon Legal Engine - SLE).
+
+## 🛡️ Integração Symbeon-SLA
+Todos os ativos gerados neste laboratório são auditados e registrados via [Symbeon Legal Engine](https://github.com/symbeon-labs/symbeon-sla), garantindo a imutabilidade dos laudos e contratos através de hashes criptográficos no Symbeon Vault.
 
 ---
-*A ordem é a fundação da soberania. Aqui, o código é a lei.*
+*A ordem é a fundação da soberania. Aqui, o código é a lei e a lei é soberana.*
 
 ## 🔒 Status de Propriedade Intelectual
 - **Classificação:** `CONFIDENCIAL — SEGREDO INDUSTRIAL`

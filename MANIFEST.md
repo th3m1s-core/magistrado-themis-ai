@@ -2,30 +2,26 @@
 
 Este repositório segue a **Arquitetura Canônica de Governança da Symbeon Labs**, dividindo os ativos em compartimentos lógicos para facilitar auditorias e escalabilidade.
 
-## 📂 Estrutura de Diretórios
+## 📂 Estrutura de Diretórios (P&D Office Standard)
+
+Cada compartimento abaixo hospeda padrões globais na raiz e projetos específicos em subpastas (ex: `GuardDrive/`).
 
 - **[00_EXECUTIVE_BRIEFING](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/00_EXECUTIVE_BRIEFING)**
-  - Status de execução (GATE 0-2) e EAP.
+  - `GuardDrive/`: Status de execução e EAP do projeto logístico.
 - **[01_PRODUCT_SPECIFICATIONS](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/01_PRODUCT_SPECIFICATIONS)**
-  - Especificações forenses do Magistrado.
+  - Especificações técnicas por projeto.
 - **[02_INTELLECTUAL_PROPERTY](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/02_INTELLECTUAL_PROPERTY)**
-  - Patentes, Claims, Auditoria Trinity e Anterioridade Científica.
+  - `GuardDrive/`: Patentes, Claims e Auditoria Trinity.
+  - *Espaço reservado para novos registros de IP.*
 - **[03_TECHNICAL_ARCHITECTURE](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/03_TECHNICAL_ARCHITECTURE)**
-  - Blueprints, Diagramas e Definição de Hardware de Borda.
+  - `GuardDrive/`: Blueprints e Hardware de Borda.
 - **[04_COMPLIANCE_AND_GOVERNANCE](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/04_COMPLIANCE_AND_GOVERNANCE)**
-  - Protocolos de Instalação (SOP) e Auditoria de Dados.
+  - Protocolos SOP e Auditoria de Dados por vertical.
 - **[05_ENGINEERING_AND_CODE](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/src)**
-  - Código-fonte core (Python/MCP).
-- **[06_HARDWARE_AND_MANUFACTURING](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/06_HARDWARE_AND_MANUFACTURING)**
-  - Integração com sensores ópticos e chips NFC.
-- **[07_BUSINESS_AND_INVESTOR_RELATIONS](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/07_BUSINESS_AND_INVESTOR_RELATIONS)**
-  - Estratégia de valuation da IA.
+  - `magistrado/`: Motor de IA agnóstico (Core).
+  - *Espaço para novos módulos de engenharia.*
 - **[08_LEGAL_AND_CONTRACTS](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/08_LEGAL_AND_CONTRACTS)**
-  - Acordos de Licenciamento Symbeon/GuardDrive.
-- **[09_OPERATIONS_AND_GTM](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/09_OPERATIONS_AND_GTM)**
-  - Implementação forense em campo.
-- **[10_VAULT_PRIVATE](file:///C:/Users/João/Desktop/PROJETOS/01_CORE_SYSTEMS/magistrado-themis-core/10_VAULT_PRIVATE)**
-  - Segredos industriais e chaves privadas.
+  - `GuardDrive/`: Contratos de Licenciamento Symbeon/GuardDrive.
 
 ---
-*Assinado: João Manoel Oliveira Silva | Arquiteto de Sistemas Soberanos*
+*Assinado: João Manoel Oliveira Silva | Arquiteto Chefe de P&D*
