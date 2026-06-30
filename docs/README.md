@@ -22,7 +22,8 @@ docs/
 ├── strategy/
 │   ├── ECOSYSTEM_ANALYSIS.md                       ← Análise completa do ecossistema e stack
 │   ├── LEGAL_MARKET_POSITIONING.md                 ← Posicionamento em escritórios jurídicos
-│   └── BUSINESS_VERTICALS.md                       ← Todas as verticais de negócio identificadas
+│   ├── BUSINESS_VERTICALS.md                       ← Todas as verticais de negócio identificadas
+│   └── MODELO_TREINADO_ESTRATEGIA_E_DADOS.md       ← O ativo que será gerado e plano de dados
 │
 └── assets/                                         ← Imagens, renders e mockups
 ```
