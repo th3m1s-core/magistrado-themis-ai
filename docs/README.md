@@ -10,20 +10,21 @@
 
 ```
 docs/
-├── README.md                           ← Este arquivo (índice central)
-├── EAP_MAGISTRADO_THEMIS.md            ← Estrutura Analítica do Projeto (Gates 0–4)
-├── TECHNICAL_CONCEPT_ANTERIORITY.md    ← Registro de Anterioridade (Prova de existência)
+├── README.md                                       ← Este arquivo (índice central)
+├── EAP_MAGISTRADO_THEMIS.md                        ← Estrutura Analítica do Projeto (Gates 0–4)
+├── TECHNICAL_CONCEPT_ANTERIORITY.md                ← Registro de Anterioridade (Prova de existência)
+├── PIPELINE_ACTIVE_LEARNING_FINETUNING.md          ← Gates 1 e 2: Dataset Builder + QLoRA
 │
 ├── governance/
-│   ├── SYMBEON_GUARDDRIVE_LICENSING.md ← Contrato de licenciamento para GuardDrive Tech
-│   └── themis_honesttag_micromart.md   ← Vertical de Micromercados / Honest Markets
+│   ├── SYMBEON_GUARDDRIVE_LICENSING.md             ← Contrato de licenciamento para GuardDrive Tech
+│   └── themis_honesttag_micromart.md               ← Vertical de Micromercados / Honest Markets
 │
 ├── strategy/
-│   ├── ECOSYSTEM_ANALYSIS.md           ← Análise completa do ecossistema e stack
-│   ├── LEGAL_MARKET_POSITIONING.md     ← Posicionamento em escritórios jurídicos
-│   └── BUSINESS_VERTICALS.md           ← Todas as verticais de negócio identificadas
+│   ├── ECOSYSTEM_ANALYSIS.md                       ← Análise completa do ecossistema e stack
+│   ├── LEGAL_MARKET_POSITIONING.md                 ← Posicionamento em escritórios jurídicos
+│   └── BUSINESS_VERTICALS.md                       ← Todas as verticais de negócio identificadas
 │
-└── assets/                             ← Imagens, renders e mockups
+└── assets/                                         ← Imagens, renders e mockups
 ```
 
 ---
