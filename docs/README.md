@@ -14,9 +14,11 @@ docs/
 ├── EAP_MAGISTRADO_THEMIS.md                        ← Estrutura Analítica do Projeto (Gates 0–4)
 ├── TECHNICAL_CONCEPT_ANTERIORITY.md                ← Registro de Anterioridade (Prova de existência)
 ├── PIPELINE_ACTIVE_LEARNING_FINETUNING.md          ← Gates 1 e 2: Dataset Builder + QLoRA
+├── API_DOCUMENTATION.md                            ← Documentação da API HTTP do Magistrado
 │
 ├── governance/
 │   ├── SYMBEON_GUARDDRIVE_LICENSING.md             ← Contrato de licenciamento para GuardDrive Tech
+│   ├── ASSINATURA_CRIPTOGRAFICA_ED25519.md         ← Fluxo de assinatura digital Ed25519
 │   └── themis_honesttag_micromart.md               ← Vertical de Micromercados / Honest Markets
 │
 ├── strategy/
