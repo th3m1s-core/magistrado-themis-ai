@@ -24,7 +24,7 @@ Os direitos reservados abrangem:
 **Licenciada:** GuardDrive Tech (Sociedade 50/50)
 
 ### Cláusula 1: Objeto
-A Licenciante concede à Licenciada uma **Licença de Uso Exclusiva** da tecnologia Magistrado Themis, limitada estritamente ao mercado de **Logística e Segurança de Carga**.
+A Licenciante concede à Licenciada uma **Licença de Uso Exclusiva** da tecnologia Magistrado Themis, limitada estritamente ao mercado de **Mobilidade e Telemetria Veicular**.
 
 ### Cláusula 2: Propriedade Moral e Intelectual
 A titularidade integral do código-fonte e das patentes "mãe" permanece com a **Symbeon Labs**. A Licenciada detém apenas o direito de exploração comercial do produto final (GuardTag).
